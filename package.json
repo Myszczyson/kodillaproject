@@ -1,0 +1,25 @@
+{
+  "name": "pierwszy-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myszczyson/kodillaproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myszczyson/kodillaproject/issues"
+  },
+  "homepage": "https://github.com/Myszczyson/kodillaproject#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.14",
+    "html-validate": "^4.3.0"
+  }
+}
